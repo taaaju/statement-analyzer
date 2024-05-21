@@ -1,0 +1,7 @@
+.env
+old*
+*old
+*zip
+*json
+node_modules
+**/[Tt]est*
